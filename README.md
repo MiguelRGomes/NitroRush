@@ -26,4 +26,4 @@ https://nitrorush.netlify.app/
 ![FirebaseNR](https://github.com/MiguelRGomes/NitroRush/assets/81479500/75803510-7de7-4c17-b313-c759d232c8c9)
 
 # Créditos
-Desenvolvido por Seu Nome.
+Desenvolvido por Miguel Rodrigues.
