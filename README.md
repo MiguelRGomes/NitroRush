@@ -8,7 +8,7 @@ Desvie dos carros que se aproximam, evitando colisões a todo custo. Uma colisã
 Quanto mais longe você chegar e mais moedas coletar, maior será sua pontuação total.
 
 # Pontuação
-# O jogo registra duas pontuações principais:
+O jogo registra duas pontuações principais:
 Pontuação de Moedas: A quantidade de moedas que você coletou ao longo do jogo.
 Distância Percorrida: A distância total que você conseguiu percorrer antes de colidir com outro carro.
 
